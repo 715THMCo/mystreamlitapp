@@ -1,6 +1,7 @@
 import streamlit as st
 import pandas as pd
-st.title('what to watch?!!@!@@!')
+st.markdown('# HASSAN M.A.SOLTANI.')
+st.title('what to watch?')
 st.subheader('Find your desired movie among 1000 titles:')
 '--------'
 
